@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PayPause</string>
+    <string name="action_settings">Settings</string>
+    <string name="gain">Vous avez gagnez</string>
+    <string name="name">nom</string>
+    <string name="currency">monaie </string>
+    <string name="salary">salaire par mois</string>
+    <string name="workedHours">heures par semaines</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="title_activity_history">History</string>
+
+    <string-array name="type">
+        <item>WC</item>
+        <item>Clope</item>
+        <item>café/thé</item>
+        <item>Téléphonne</item>
+        <item>Discussion</item>
+        <item>Internet</item>
+    </string-array>
+
+</resources>
